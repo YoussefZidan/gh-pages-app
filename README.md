@@ -56,13 +56,19 @@ Rename the **build** folder to be **docs**
 
 ## 6. Change Repo Settings.
 
-Go to repo settings => Pages section, and change the `/(root)` option to be to `/docs`
+- Go to repo settings => Pages section.
+
+- Pick your default branch in my case it's master 
+
+- Change the `/(root)` option to be to `/docs`
+
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l5fh5z22qi52yw2wvmev.JPG)
 
 
 Now wait a few minutes and you will see your app published in a URL like this
 
 ```terminal
-https://youssefzidan.github.io/react-gh-pages/
+https://youssefzidan.github.io/gh-pages-app/
 ```
 
 ## Thank You.
